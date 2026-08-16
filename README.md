@@ -1,2 +1,2 @@
-# Lesson-Materials-Python
-These are all the programming practice work I did while learning Python Programming
+# Python Lesson Exercises 
+From Learning Python To Solving Real-world Problems.
